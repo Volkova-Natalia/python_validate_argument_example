@@ -1,5 +1,5 @@
 """
-Checking that arguments belong to certain types
+Checking that arguments belong to certain types.
 You can specify several types,
     including undefined which means that the argument was not be passed into a function and it has default value
 
