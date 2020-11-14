@@ -4,6 +4,7 @@ You can specify several types,
     including undefined which means that the argument was not be passed into a function and it has default value
 
 You can yse it like that:
+@validate_type_argument
 def function(*, kwarg1: str, kwarg2: types([dict, type(None), undefined])):
     pass
 -----
